@@ -41,7 +41,7 @@ const EventCalendar = () => {
         <h1 className="text-xl font-semibold my-4">Events</h1>
         <Image src="/moreDark.png" alt="" width={20} height={20} />
       </div>
-      <div className="flex flex-col gap-4">
+      {/* <div className="flex flex-col gap-4">
         {events.map((event) => (
           <div
             key={event.id}
@@ -51,10 +51,10 @@ const EventCalendar = () => {
               <h1 className="font-semibold text-gray-600">{event.title}</h1>
               <span className="text-gray-300 text-xs">{event.time}</span>
             </div>
-            <p className="mt-2 text-gray-400 text-sm">{event.description}</p>
+            <p className="mt-2 text-gray-400 textsm">{event.description}</p>
           </div>
         ))}
-      </div>
+      </div> */}
     </div>
   );
 };
