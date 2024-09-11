@@ -12,11 +12,11 @@ const Announcements = () => {
             <span className="text-xs text-gray-400 bg-white rounded-md px-1 py-1">
               2025-01-01
             </span>
-            <p className="text-sm text-gray-400 mt-1">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry.
-            </p>
           </div>
+          <p className="text-sm text-gray-400 mt-1">
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+          </p>
         </div>
         <div className="bg-lamaPurpleLight rounded-md p-4">
           <div className="flex items-center justify-between">
@@ -24,11 +24,11 @@ const Announcements = () => {
             <span className="text-xs text-gray-400 bg-white rounded-md px-1 py-1">
               2025-01-01
             </span>
-            <p className="text-sm text-gray-400 mt-1">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry.
-            </p>
           </div>
+          <p className="text-sm text-gray-400 mt-1">
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+          </p>
         </div>
         <div className="bg-lamaYellowLight rounded-md p-4">
           <div className="flex items-center justify-between">
@@ -36,11 +36,11 @@ const Announcements = () => {
             <span className="text-xs text-gray-400 bg-white rounded-md px-1 py-1">
               2025-01-01
             </span>
-            <p className="text-sm text-gray-400 mt-1">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry.
-            </p>
           </div>
+          <p className="text-sm text-gray-400 mt-1">
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+          </p>
         </div>
       </div>
     </div>
