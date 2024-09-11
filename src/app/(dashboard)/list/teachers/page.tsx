@@ -47,6 +47,8 @@ const columns = [
   { header: "Actions", accessor: "action" },
 ];
 
+// TESTING
+
 const TeacherListPage = () => {
   const renderRow = (item: Teacher) => (
     <tr
